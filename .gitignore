@@ -3,3 +3,9 @@
 
 # Ignore Gradle build output directory
 build
+bin
+
+# Ignore Eclipse conf
+.settings
+.classpah
+.project
